@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">minichat</string>
+    <string name="title_activity_main">minichat</string>
+    <string name="package_name">com.fribium.minichat</string>
+    <string name="custom_url_scheme">com.fribium.minichat</string>
+</resources>

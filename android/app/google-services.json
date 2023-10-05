@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309103666917",
+    "project_id": "minichat-1d982",
+    "storage_bucket": "minichat-1d982.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309103666917:android:f1f82d6657274ca031560c",
+        "android_client_info": {
+          "package_name": "com.fribium.minichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309103666917-pmmvemptsup572o5mbnonq1s57rtb33b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPulDZJv94VDdDd3uwYCrjqs7zn00rPJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309103666917-pmmvemptsup572o5mbnonq1s57rtb33b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
